@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fx@172.27.166.207:22">
+    <serverData>
+      <paths name="Copy of project-level server 'Fan'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fx/PycharmProject/HRNet-Semantic-Segmentation-pytorch-attention-dilated" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fx@172.27.166.207:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fx/pychramproject/HRNet-Semantic-Segmentation-pytorch-attention-dilated" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
